@@ -1,3 +1,4 @@
 This is to test git fetch and git pull
 Here am making changes in GitHub -- Remote repo
 This is for git merge
+This is to verify git fetch command
